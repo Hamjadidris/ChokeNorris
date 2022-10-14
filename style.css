@@ -3,7 +3,6 @@
     box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
 }
-
 body{
     height: 100vh;
     display: flex;
